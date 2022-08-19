@@ -11,6 +11,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+- 😄 Pronouns: 
+- Him/HE..
+
+
+- ⚡ Fun fact: 
+- ✈ I fancy planes and enjoy travelling by air; I wonder if I can fly a Boeing or Airbus someday 🤔
+- 🏀 I love basketball also! 
+- 
+   
 
