@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Welcome To Benedicts Profile😇
+Welcome To Benedict's Profile😇
 
 <h1>What's my current role in tech?</h1>
-   { fullStackDeveloper | Frontend Engineer |} 
+   { fullStackDeveloper | Frontend Engineer |} .
 
 
-Here are some things to know about Benedicts:
+- Here are some things to know about Benedict:
 
 - 🔭 I’m A web developer with good knowledge on HTML5 and CSS (SCSS), JavaScript, react.js, node.js,
 express.js,SQL and currently furthering my scope of knowledge with, Java and a couple of other backend skills. 
