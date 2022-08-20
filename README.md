@@ -8,11 +8,17 @@ Welcome To Benedicts Profile😇
 
 Here are some things to know about Benedicts:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m A web developer with good knowledge on HTML5 and CSS (SCSS), JavaScript, react.js, node.js,
+express.js,SQL and currently furthering my scope of knowledge with, Java and a couple of other backend skills. 
+Adept writer skills with good knowledge of the English language. 
+I am a great team player, always eager to learn something new and adept in various social media platforms and office technology programs.
+Committed to utilizing my skills to further the mission of any company and the Tech world in General.
+I'm ready to explore and take on any challenge the tech world has for me by putting in my very best.
 
-- 💬 Ask me about ...
+- 👯 I’m Looking To Collaborate On Any Web Project..
+
+-  🤹🏾‍♀️ Major Tech Skills: ReactJS ecosystem, HTML, CSS, SCSS,  JavaScript, APIs, NodeJs(Express), SQL, MongoDB.
+
 - 📫 How to reach me: https://www.linkedin.com/in/benedict-nwoko-512021240
 
 
