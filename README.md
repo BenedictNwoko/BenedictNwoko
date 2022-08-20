@@ -13,8 +13,8 @@ Here are some things to know about Benedicts:
 - 👯 I’m looking to collaborate on ...
 
 - 💬 Ask me about ...
-- 📫 How to reach me: <a href"https://www.linkedin.com/in/benedict-nwoko-512021240"><img src"![image](https://user-images.githubusercontent.com/105940877/185755339-5ff2a423-65f9-4af0-a81e-d08275c0137b.png)
-" </a>
+- 📫 How to reach me: <a href"https://www.linkedin.com/in/benedict-nwoko-512021240" <img src"![image](https://user-images.githubusercontent.com/105940877/185755339-5ff2a423-65f9-4af0-a81e-d08275c0137b.png)
+" > </a>
 
 
 - 😄 Pronouns: 
