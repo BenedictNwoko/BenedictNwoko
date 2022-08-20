@@ -13,7 +13,7 @@ Here are some things to know about Benedicts:
 - 👯 I’m looking to collaborate on ...
 
 - 💬 Ask me about ...
-- 📫 How to reach me: <a href"https://www.linkedin.com/in/benedict-nwoko-512021240">linkedin</a>
+- 📫 How to reach me: https://www.linkedin.com/in/benedict-nwoko-512021240
 
 
 - 😄 Pronouns: 
