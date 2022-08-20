@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+Welcome To Benedicts Profile😇
 
-**BenedictNwoko/BenedictNwoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What's my current role in tech?
+   { fullStackDeveloper | Frontend Engineer |} 
+
 
 Here are some ideas to get you started:
 
