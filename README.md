@@ -3,7 +3,7 @@
 Welcome To Benedict's Profile😇
 
 <h1>What's my current role in tech?</h1>
-   { fullStackDeveloper | Frontend Engineer |} .
+   { fullStackDeveloper | Frontend Engineer | frontend web dev | Tech enthusiasts} .
 
 
 -<h2> Here are some things to know about Benedict:</h2>
