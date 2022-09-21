@@ -23,7 +23,7 @@ I'm ready to explore and take on any challenge the tech world has for me by putt
 
 
 - 😄 Pronouns: 
-- Him/HE..
+- Him/HE...
 
 
 - ⚡ Fun fact: 
